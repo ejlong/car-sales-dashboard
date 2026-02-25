@@ -57,7 +57,7 @@ This dashboard provides a summary view of sales performance and key metrics.
 
 ### Interactive Filtering Example
 
-![Filter Example](images/filter_example.png)
+![Filter Example]()
 
 Slicers allow users to dynamically filter the dashboard by dealership and vehicle attributes, updating all visualizations automatically.
 
